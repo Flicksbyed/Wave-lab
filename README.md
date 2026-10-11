@@ -17,3 +17,7 @@ Profile settings and logs are stored only in your browser, not GitHub. Export re
 ## Development
 
 Buildless HTML/CSS/JavaScript. Open index.html or serve this folder with any static web server. The App framework view documents the future relational model and API design.
+
+## Version 2
+
+Black and red mobile interface, custom generated hero artwork (fictional model), interactive eight-lane crown trainer, adjustable session targets, animated timer, configurable wash calendar, seven-step conditioning-aware wash guide, activity charts and preserved v1 records. Tight coils and strand thickness are recorded separately. Hair-health sources and barber-technique references are linked in Wave knowledge.
